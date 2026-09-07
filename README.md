@@ -17,7 +17,3 @@ https://smartinsole-upqzgndk.manus.space
 ### Technology
 ESP32 • Pressure Sensors • BLE • React • TypeScript • Vite • CNC
 
-### Workflow
-SENSE → MAP → IDENTIFY → PERSONALIZE → FABRICATE → VALIDATE
-
-> Research prototype for pressure monitoring and personalized insole design. Not intended for medical diagnosis.
